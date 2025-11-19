@@ -1,0 +1,15 @@
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\REPOS\PT_LABS\LAB03\CS_Basics\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
